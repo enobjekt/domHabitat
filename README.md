@@ -1,2 +1,4 @@
 # domHabitat
-My github website.
+My first github website.
+
+Hi Humans!
